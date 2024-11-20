@@ -1,4 +1,30 @@
-# 5.54 (28.10.2023)
+# 5.70 (30.01.2024)
+* Feat: Display all air weapons in the top right corner
+* Fix: missing document.head in Chrome
+
+# 5.69 (30.11.2023)
+* Fix: Regression features not working
+* Fix: Global scope variable pollution
+* Fix: Contributors url
+
+# 5.68 (27.11.2023)
+* Fix: Default auto traveller values
+* Fix: travel route
+
+# 5.67 (27.11.2023)
+* Misc: Auto build and release workflow (#33)
+* An Amazing Journey Auto Traveller #29 (#32)
+* Fix: Map global scope pollution.
+* Misc: Integrate with React and Typescript (#31)
+
+# 5.66 (15.11.2023)
+* Misc: Automatic version updater script with GH Actions
+* Misc: Auto version updater script
+* Misc: Set version in package.json
+* Fix: Changelog number
+* Misc: Disable and show loading animation on 'Claim All & Close' button upon click (#18)
+
+# 5.65 (28.10.2023)
 * fix: Hits calculation on a profile page
 * fix: Storage helper features
 * fix: Stopping at gold Jackpot
